@@ -31,9 +31,11 @@ python inference_deeplab.py
 
 ## Train loss graphs 
 UNet loss graph:
+
 ![UNet Train & Val Loss graphs](graphs/loss-graph-unet.png)
 
 DeepLab V3 loss graph:
+
 ![DeepLab V3 Train & Val Loss graphs](graphs/loss-graph-deeplab.png)
 
 ## Metric value comparison:
