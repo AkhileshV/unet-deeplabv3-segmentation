@@ -31,14 +31,14 @@ python inference_deeplab.py
 
 ## Train loss graphs 
 UNet loss graph:
-![UNet Train & Val Loss graphs](outputs/loss-graph-unet.png)
+![UNet Train & Val Loss graphs](graphs/loss-graph-unet.png)
 
 DeepLab V3 loss graph:
-![DeepLab V3 Train & Val Loss graphs](outputs/loss-graph-deeplab.png)
+![DeepLab V3 Train & Val Loss graphs](graphs/loss-graph-deeplab.png)
 
 ## Metric value comparison:
 Metrics used: Dice Co-efficient & mean Intersection over Union
-![Compare UNet & DeepLab V3 on metrics](outputs/metric_comparison.png)
+![Compare UNet & DeepLab V3 on metrics](graphs/metric_comparison.png)
 
 ## Observation/Conclusion
 
